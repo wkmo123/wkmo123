@@ -8,8 +8,8 @@
 
 <br>
 
-- A passionate Self-taught Backend developer
-- I’m currently learn azure 
+- A passionate Fullstack developer or i try 
+- I’m currently working as a sofwtare developer
 - How to reach me juansf_456@hotmail.com
 
 
@@ -27,8 +27,8 @@
   </a>
 </p>
 
-
-### Co
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+Connect With Me🤝
 
 <p align="left"> <a href="https://www.linkedin.com/in/juan-feo-bb1786249" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
@@ -57,17 +57,8 @@
 </table>
 <!--- stats (end) -->
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
 
 </p>  
-<br>
 <br>
 <br>
 
