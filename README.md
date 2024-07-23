@@ -1,23 +1,15 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=30&pause=1000&color=2798F7&width=435&lines=I'm+Steven+Ortiz" alt="Typing SVG" /></a>
-<p align="center">
-
-
-</p>
-
+</div>
 
 <br>
-
-
-
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
 
 - A passionate Self-taught Backend developer
+- I’m currently learn azure 
 - I’m currently learn azure 
 
 <br>
@@ -31,7 +23,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,dotnet,git,github,js,docker,aws,azure,posgres,react,angular&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,dotnet,git,github,js,docker,aws,azure,posgrest,mysql,react,angular&perline=14" />
   </a>
 </p>
 
