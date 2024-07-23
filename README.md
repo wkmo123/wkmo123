@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a software developer with 1.5 years of experience in full-stack development. I have expertise in Java with Spring Boot, PHP with Laravel, C# with .NET, and JavaScript. Additionally, I am skilled in frontend frameworks such as Angular and Vue.js, and I have hands-on experience with containerization and cloud services, specifically Docker, AWS, and Azure. My background includes developing scalable web applications, optimizing backend processes, and ensuring seamless integration between various system components. I am passionate about continuous learning and staying updated with the latest industry trends and technologies.
+I am a software developer with 1.5 years of experience in full-stack development. I have experience in Java with Spring Boot, PHP with Laravel, C# with .NET, and JavaScript. Additionally, I am skilled in frontend frameworks such as Angular and Vue.js, and I have hands-on experience with containerization and cloud services, specifically Docker, AWS, and Azure. My background includes developing scalable web applications, optimizing backend processes, and ensuring seamless integration between various system components. I am passionate about continuous learning and staying updated with the latest industry trends and technologies.
 
 * 🧠  I'm learning Azure
 
