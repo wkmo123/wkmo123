@@ -4,7 +4,7 @@
 
 <br>
 	
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me**
 
 <br>
 
@@ -12,7 +12,7 @@
 - I’m currently working as a sofwtare developer
 - How to reach me juansf_456@hotmail.com
 
-Connect With Me🤝
+Connect With Me
 
 <p align="left"> <a href="https://www.linkedin.com/in/juan-feo-bb1786249" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
