@@ -8,7 +8,7 @@
 
 - A passionate Fullstack developer 
 - I’m currently working as a sofwtare developer
-- How to reach me juansf_456@hotmail.com
+
 
 **Connect With Me** 
 
