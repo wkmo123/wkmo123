@@ -39,7 +39,7 @@
 <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wkmo123&theme=dark&show_icons=true" />
   <br></br>
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=wkmo123&theme=dark&show_icons=true" />
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=wkmo123&theme=dark&hide_border=false" /> 
   <br></br>
 </td>
 </tr>
