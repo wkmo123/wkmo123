@@ -6,8 +6,8 @@
 
 <br>
 
-- A passionate Fullstack developer 
-- I’m currently working as a sofwtare developer
+- A passionate Fullstack Developer 
+- I’m currently working as a Software Developer
 
 
 **Connect With Me** 
