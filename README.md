@@ -43,7 +43,7 @@
   <br></br>
 </td>
 
-
+  <!--- stats (informacion de dias programando) -->
 
 <td width="50%" align="center">
 
