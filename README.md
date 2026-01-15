@@ -65,14 +65,6 @@ I have experience working in **agile teams (Scrum)** and contributing to large-s
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkmo123&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
